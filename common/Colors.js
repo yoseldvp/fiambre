@@ -1,0 +1,1 @@
+export default background = "#1F2625";
